@@ -1,0 +1,9 @@
+/Users/Andrei/Desktop/codingdojo/c#_fundamentals/assignments/wizard_ninja_samurai/bin/Debug/netcoreapp1.1/wizard_ninja_samurai.deps.json
+/Users/Andrei/Desktop/codingdojo/c#_fundamentals/assignments/wizard_ninja_samurai/bin/Debug/netcoreapp1.1/wizard_ninja_samurai.runtimeconfig.json
+/Users/Andrei/Desktop/codingdojo/c#_fundamentals/assignments/wizard_ninja_samurai/bin/Debug/netcoreapp1.1/wizard_ninja_samurai.runtimeconfig.dev.json
+/Users/Andrei/Desktop/codingdojo/c#_fundamentals/assignments/wizard_ninja_samurai/bin/Debug/netcoreapp1.1/wizard_ninja_samurai.dll
+/Users/Andrei/Desktop/codingdojo/c#_fundamentals/assignments/wizard_ninja_samurai/bin/Debug/netcoreapp1.1/wizard_ninja_samurai.pdb
+/Users/Andrei/Desktop/codingdojo/c#_fundamentals/assignments/wizard_ninja_samurai/obj/Debug/netcoreapp1.1/wizard_ninja_samurai.csproj.CoreCompileInputs.cache
+/Users/Andrei/Desktop/codingdojo/c#_fundamentals/assignments/wizard_ninja_samurai/obj/Debug/netcoreapp1.1/wizard_ninja_samurai.AssemblyInfo.cs
+/Users/Andrei/Desktop/codingdojo/c#_fundamentals/assignments/wizard_ninja_samurai/obj/Debug/netcoreapp1.1/wizard_ninja_samurai.dll
+/Users/Andrei/Desktop/codingdojo/c#_fundamentals/assignments/wizard_ninja_samurai/obj/Debug/netcoreapp1.1/wizard_ninja_samurai.pdb
